@@ -1,0 +1,20 @@
+.whole {display: flex;
+flex-direction: row;
+justify-content: space-between;
+background-color:lightblue;
+margin-right: 15%;
+margin-left: 15%;
+margin-top:}
+
+.asset {background: repeating-linear-gradient( rgba(42, 175, 97, 0.993),rgb(0, 204, 255));
+margin-right: 20px; }
+.mine{position: sticky;
+top: 5px;
+bottom: 5px;}
+.text{ word-spacing: 2px;
+    margin-left: 20px;
+}
+
+
+
+   
